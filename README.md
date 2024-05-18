@@ -40,7 +40,7 @@ Kolkata, West Bengal
 - Other users can also register themselves to chat with the person they want to.
 - They can login anytime to see all the recent messages or previous ones without any data loss.
 
-### <img src="C:\Users\MUSSARRAT KHATOON\Downloads\go to link1.png" width="16"/> Netflix Clone [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
+Netflix Clone [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
 *React, Redux Toolkit, NodeJS, and MongoDB*  
 <div align="right">2024</div>
 
@@ -48,7 +48,7 @@ Kolkata, West Bengal
 - You can use many functionalities just like Netflix.
 - Allows video playback in split screen.
 
-### <img src="https://img.icons8.com/material-outlined/24/000000/project.png" width="16"/> GetMeAChai - Crowdfunding App
+### <img src="https://img.icons8.com/material-outlined/24/000000/project.png" width="16"/> GetMeAChai - Crowdfunding App [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
 *NextJs and Tailwind*  
 <div align="right">2023</div>
 
