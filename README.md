@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://img.icons8.com/material-outlined/24/000000/phone--v1.png"/> +91-9123635118 |
-  <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/> [hrittiksingh1920@gmail.com](mailto:hrittiksingh1920@gmail.com) |
+  <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/> [hrittiksingh1920@gmail.com] |
   <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/> (https://www.linkedin.com/in/hrittik-singh/) |
   <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> (https://github.com/Hrittik1920) |
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-leetcode-a-crowd-learning-platform-for-coding-logo-shadow-tal-revivo.png"/> [LeetCode](https://leetcode.com/u/Hrittik1920/) |
@@ -40,7 +40,7 @@ Kolkata, West Bengal
 - Other users can also register themselves to chat with the person they want to.
 - They can login anytime to see all the recent messages or previous ones without any data loss.
 
-Netflix Clone [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
+### Netflix Clone [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
 *React, Redux Toolkit, NodeJS, and MongoDB*  
 <div align="right">2024</div>
 
@@ -48,7 +48,7 @@ Netflix Clone [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d9
 - You can use many functionalities just like Netflix.
 - Allows video playback in split screen.
 
-### <img src="https://img.icons8.com/material-outlined/24/000000/project.png" width="16"/> GetMeAChai - Crowdfunding App [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
+### GetMeAChai - Crowdfunding App [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
 *NextJs and Tailwind*  
 <div align="right">2023</div>
 
@@ -56,7 +56,7 @@ Netflix Clone [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d9
 - Users can register and be followed by others.
 - Followers can donate funds securely.
 
-### <img src="https://img.icons8.com/material-outlined/24/000000/project.png" width="16"/> IP Address Tracker
+### IP Address Tracker [![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)](https://your-project-link.com)
 *ReactJs and Tailwind*  
 <div align="right">2023</div>
 
