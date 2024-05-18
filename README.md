@@ -6,8 +6,8 @@
 <div align="center">
   <img src="https://img.icons8.com/material-outlined/24/000000/phone--v1.png"/> +91-9123635118 |
   <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/> [hrittiksingh1920@gmail.com](mailto:hrittiksingh1920@gmail.com) |
-  <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/hrittik-singh/) |
-  <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> [GitHub](https://github.com/Hrittik1920) |
+  <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/> (https://www.linkedin.com/in/hrittik-singh/) |
+  <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> (https://github.com/Hrittik1920) |
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-leetcode-a-crowd-learning-platform-for-coding-logo-shadow-tal-revivo.png"/> [LeetCode](https://leetcode.com/u/Hrittik1920/) |
   <img src="https://img.icons8.com/color/24/000000/geeksforgeeks.png"/> [GeeksforGeeks](https://www.geeksforgeeks.org/user/hrittiksipxji/)
 </div>
@@ -31,7 +31,7 @@ Kolkata, West Bengal
 
 ## PROJECTS
 
-### <img src="https://img.icons8.com/material-outlined/24/000000/project.png" width="16"/> Snappy - Chat App
+### <img src="C:\Users\MUSSARRAT KHATOON\Documents\JOB-CV" width="16"/> Snappy - Chat App
 *ReactJS, NodeJS, Socket.io, MongoDB, IDE - VS Code*  
 <div align="right">2024</div>
 
