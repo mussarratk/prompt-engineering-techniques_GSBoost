@@ -31,8 +31,8 @@ Kolkata, West Bengal
 
 ## PROJECTS
 
-### <img src="C:\Users\MUSSARRAT KHATOON\Documents\JOB-CV\go to link1.png" width="16"/> Snappy - Chat App[![Go to link](https://raw.githubusercontent.com/mussarratk/cv_markdownmy/main/go%20to%20link1.png)](https://your-project-link.com)https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png
-
+### <img src="C:\Users\MUSSARRAT KHATOON\Documents\JOB-CV\go to link1.png" width="16"/> Snappy - Chat App[![Go to link](https://raw.githubusercontent.com/mussarratk/cv_markdownmy/main/go%20to%20link1.png)](https://your-project-link.com)
+[![Go to link](https://github.com/mussarratk/cv_markdownmy/blob/d93b131b5161841215c66a8c6f6c76670bde151f/go%20to%20link1.png)]
 *ReactJS, NodeJS, Socket.io, MongoDB, IDE - VS Code*  
 <div align="right">2024</div>
 
