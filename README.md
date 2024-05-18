@@ -31,7 +31,7 @@ Kolkata, West Bengal
 
 ## PROJECTS
 
-### <img src="C:\Users\MUSSARRAT KHATOON\Documents\JOB-CV" width="16"/> Snappy - Chat App go to link1.png 
+### <img src="C:\Users\MUSSARRAT KHATOON\Documents\JOB-CV\go to link1.png" width="16"/> Snappy - Chat App  
 *ReactJS, NodeJS, Socket.io, MongoDB, IDE - VS Code*  
 <div align="right">2024</div>
 
@@ -39,7 +39,7 @@ Kolkata, West Bengal
 - Other users can also register themselves to chat with the person they want to.
 - They can login anytime to see all the recent messages or previous ones without any data loss.
 
-### <img src="C:\Users\MUSSARRAT KHATOON\Downloads\go to link1 (1).png" width="16"/> Netflix Clone
+### <img src="C:\Users\MUSSARRAT KHATOON\Downloads\go to link1.png" width="16"/> Netflix Clone
 *React, Redux Toolkit, NodeJS, and MongoDB*  
 <div align="right">2024</div>
 
